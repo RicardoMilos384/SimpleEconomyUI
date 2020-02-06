@@ -1,6 +1,6 @@
 name: SimpleEconomyUI
 version: 1.0.0
-main: Milos\EcoUI\Main
+main: EcoUI\Main
 api: 3.9.3
 author: DontTouchMeXD
 description: EconomyUI From Indonesia
