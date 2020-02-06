@@ -3,17 +3,17 @@ EconomyUI plugin For Make Your Life Better
 
 # Features
 
-[X] MyMoney UI
-[X] Basic Top Money
-[X] SeeMoney UI
-[X] Pay UI
+[x] MyMoney UI
+[x] Basic Top Money
+[x] SeeMoney UI
+[x] Pay UI
 
 # Next Updates 
 
-[X] Add Dropdown Ini PayUI
-[X] Update Some Feature 
+[x] Add Dropdown Ini PayUI
+[x] Update Some Feature 
 
 # Depends
 
-[X] EconomyAPI @onebone
-[X] FormAPI by @jojoe77777
+[x] EconomyAPI @onebone
+[x] FormAPI by @jojoe77777
