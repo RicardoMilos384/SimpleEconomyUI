@@ -3,15 +3,15 @@ EconomyUI plugin For Make Your Life Better
 
 # Features
 
-- [✓] MyMoney UI
-- [✓] Basic Top Money
-- [✓] SeeMoney UI
-- [✓] Pay UI
+- [x] MyMoney UI
+- [x] Basic Top Money
+- [x] SeeMoney UI
+- [x] Pay UI
 
 # Next Updates 
 
-- [x] Add Dropdown Ini PayUI
-- [x] Update Some Feature 
+- [ ] Add Dropdown Ini PayUI
+- [ ] Update Some Feature 
 
 # Depends
 
