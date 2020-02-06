@@ -8,7 +8,7 @@ EconomyUI plugin For Make Your Life Better
 - [x] SeeMoney UI
 - [x] Pay UI
 
-##@ Next Updates 
+### Next Updates 
 
 - [ ] Add Dropdown Ini PayUI
 - [ ] Update Some Feature 
