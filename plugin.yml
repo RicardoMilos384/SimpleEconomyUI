@@ -1,0 +1,10 @@
+name: SimpleEconomyUI
+version: 1.0.0
+main: Milos\EcoUI\Main
+api: 3.9.3
+author: DontTouchMeXD
+description: EconomyUI From Indonesia
+commands:
+ ecoui:
+  description: "§aopen economyUI menu"
+  aliases: [economyui, econui, ecui]
