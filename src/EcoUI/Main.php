@@ -13,7 +13,7 @@
  * Ok Thanks For Your Respect
  */
 
-namespace Milos\EcoUI;
+namespace EcoUI;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\Player; 
