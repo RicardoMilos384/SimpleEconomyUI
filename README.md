@@ -1,3 +1,5 @@
+![Poggit-CI](https://poggit.pmmp.io/ci.shield/RicardoMilos384/SimpleEconomyUI/SimpleEconomyUI)(https://poggit.pmmp.io/ci/RicardoMilos384/SimpleEconomyUI/SimpleEconomyUI)   
+
 ![](https://raw.githubusercontent.com/RicardoMilos384/SimpleEconomyUI/master/icon.png)
 
 # SimpleEconomyUI
