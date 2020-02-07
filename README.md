@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/RicardoMilos384/SimpleEconomyUI/master/icon.png)
+
 # SimpleEconomyUI
 EconomyUI plugin For Make Your Life Better
 
