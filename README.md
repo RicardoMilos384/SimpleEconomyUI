@@ -1,4 +1,5 @@
-![Poggit-CI](https://poggit.pmmp.io/ci.shield/RicardoMilos384/SimpleEconomyUI/SimpleEconomyUI)   
+[![Poggit-CI](https://poggit.pmmp.io/ci.shield/RicardoMilos384/SimpleEconomyUI/SimpleEconomyUI)
+[![HitCount](http://hits.dwyl.io/RicardoMilos384/SimpleEconomyUI.svg)](http://hits.dwyl.io/RicardoMilos384/SimpleEconomyUI)   
 
 ![](https://raw.githubusercontent.com/RicardoMilos384/SimpleEconomyUI/master/icon.png)
 
