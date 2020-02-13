@@ -1,7 +1,7 @@
 ![Poggit-CI](https://poggit.pmmp.io/ci.shield/RicardoMilos384/SimpleEconomyUI/SimpleEconomyUI)
 [![](https://poggit.pmmp.io/ci.shield.dl.total/SimpleEconomyUI)](https://poggit.pmmp.io/ci/SimpleEconomyUI)
 
-![](https://raw.githubusercontent.com/RicardoMilos384/SimpleEconomyUI/master/icon.png)
+Update alert!!
 
 # SimpleEconomyUI
 EconomyUI plugin For Make Your Life Better
