@@ -101,7 +101,7 @@ Ok Thanks For Your Respect ");
 		$name = $player->getName();
 		$form->setTitle("§a§lEconomyUI");
 		$form->setContent("§cHello §a{$name}\n§eYour Money:\n§b{$money}\n\n\n\n\n");
-		$form->addButton("§ckembali");
+		$form->addButton("§cBack");
 		$form->sendToPlayer($player);
 	}
 	
@@ -134,7 +134,7 @@ Ok Thanks For Your Respect ");
 			if($this->getServer()->getOfflinePlayer($data[0])->hasPlayedBefore() || $this->getServer()->getOfflinePlayer($data[0])->isOnline() && EconomyAPI::getInstance()->myMoney($data[0]) !== null){
 				$this->MoneyPlayerForm($player, $data[0]);
 			}else{
-				$player->sendMessage("§cPlayer Tidak Ditemukan");
+				$player->sendMessage("§cPlayer's not found");
 			}
 		});
 		$form->setTitle("§a§lEconomyUI");
@@ -148,8 +148,8 @@ Ok Thanks For Your Respect ");
 		    
 		});
 		$uang = $this->eco->myMoney($target);
-		$form->setTitle("§l§aEconomyUI");
-		$form->addLabel("§bThe Money He Has:§c\n{$uang}$ \n\n\n\n\n\n");
+		$form->setTitle("§l§a{$target}'s money");
+		$form->addLabel("§bMoney:§c\n{$uang}$ \n\n\n\n\n\n");
 		$form->sendToPlayer($player);
 	}
 }
