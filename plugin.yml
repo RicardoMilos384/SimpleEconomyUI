@@ -1,7 +1,7 @@
 name: SimpleEconomyUI
 version: 1.0.0
 main: EcoUI\Main
-api: 3.9.3
+api: [3.11, 4.0]
 author: DontTouchMeXD
 description: EconomyUI plugin to make your life easy (please dont edit and claim this plugin)
 commands:
